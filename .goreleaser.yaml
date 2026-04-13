@@ -1,0 +1,8 @@
+builds:
+  - main: .
+    id: "interest-calc"
+    binary: interest-calc
+    goos:
+      - linux
+      - darwin
+      - windows
