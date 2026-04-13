@@ -1,6 +1,6 @@
 module github.com/jspback/interest-calc
 
-go 1.25.1
+go 1.26.2
 
 require (
 	github.com/govalues/decimal v0.1.36
